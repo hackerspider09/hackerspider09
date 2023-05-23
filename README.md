@@ -34,5 +34,7 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hackerspider09&bg_color=200d30&color=9e4c98&line=da1068&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
