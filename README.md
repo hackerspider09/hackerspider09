@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hackerspider09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<img src="https://raw.githubusercontent.com/hackerspider09/hackerspider09/output/snake.svg" alt="Snake animation" />
+
+
+
 <!--
 [![](https://visitcount.itsvg.in/api?id=hackerspider09&icon=199977777777777777799&color=6)](https://visitcount.itsvg.in)
 -->
